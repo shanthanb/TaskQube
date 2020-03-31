@@ -1,2 +1,2 @@
-# HeadoutAssignment
-Youtube Like HomePage using HTML5 and CSS3
+# AssignmentTask
+Mockup design of video sharing HomePage using HTML5 and CSS3
